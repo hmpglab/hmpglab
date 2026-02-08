@@ -27,6 +27,11 @@ export const metadata: Metadata = {
       "직접 겪은 불편함에서 시작합니다. 1인 개발자와 메이커를 위한 프로덕트 그룹.",
   },
   metadataBase: new URL("https://hmpglab.com"),
+  verification: {
+    other: {
+      "facebook-domain-verification": ["2d5ol1nepus31epkzxc7sy5xktgawi"],
+    },
+  },
 };
 
 export default function RootLayout({
