@@ -432,7 +432,7 @@ export default function Home() {
               </a>
             </div>
             <p className="text-xs text-muted-foreground">
-              &copy; {new Date().getFullYear()} HMPG
+              &copy; {new Date().getFullYear()} HMPG · 홈페이지랩
             </p>
           </div>
         </div>
